@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"E:\Practices\Net Core\CRUDapp\src\Services\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
--out:"E:\Practices\Net Core\CRUDapp\src\Services\bin\Debug\netstandard1.6\Services.dll"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Services\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Services\bin\Debug\netstandard1.6\Services.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\Microsoft.EntityFrameworkCore\1.0.6\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\Microsoft.EntityFrameworkCore.Relational\1.0.6\lib\netstandard1.3\Microsoft.EntityFrameworkCore.Relational.dll"
@@ -77,8 +77,8 @@
 -r:"C:\Users\jhsoni\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Entities\bin\Debug\netstandard1.6\Entities.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Interfaces\bin\Debug\netstandard1.6\Interfaces.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Models\bin\Debug\netstandard1.6\Models.dll"
-"E:\Practices\Net Core\CRUDapp\src\Services\EmployeeService.cs"
-"E:\Practices\Net Core\CRUDapp\src\Services\Properties\AssemblyInfo.cs"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Entities\bin\Debug\netstandard1.6\Entities.dll"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Interfaces\bin\Debug\netstandard1.6\Interfaces.dll"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Models\bin\Debug\netstandard1.6\Models.dll"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Services\EmployeeService.cs"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Services\Properties\AssemblyInfo.cs"
