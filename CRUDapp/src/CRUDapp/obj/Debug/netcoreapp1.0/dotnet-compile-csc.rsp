@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"E:\Practices\Net Core\CRUDapp\src\CRUDapp\bin\Debug\netcoreapp1.0\CRUDapp.dll"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\bin\Debug\netcoreapp1.0\CRUDapp.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\AutoMapper\6.0.0\lib\netstandard1.3\AutoMapper.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\AutoMapper.Extensions.Microsoft.DependencyInjection\2.0.1\lib\netstandard1.6\AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\Microsoft.ApplicationInsights\2.1.0\lib\dotnet5.4\Microsoft.ApplicationInsights.dll"
@@ -202,13 +202,13 @@
 -r:"C:\Users\jhsoni\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\jhsoni\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Entities\bin\Debug\netstandard1.6\Entities.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Interfaces\bin\Debug\netstandard1.6\Interfaces.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Models\bin\Debug\netstandard1.6\Models.dll"
--r:"E:\Practices\Net Core\CRUDapp\src\Services\bin\Debug\netstandard1.6\Services.dll"
--resource:"E:\Practices\Net Core\CRUDapp\src\CRUDapp\obj\Debug\netcoreapp1.0\CRUDappdotnet-compile.deps.json",CRUDapp.deps.json
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\AutoMapperProfile.cs"
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\Program.cs"
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\Startup.cs"
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\Controllers\AccountController.cs"
-"E:\Practices\Net Core\CRUDapp\src\CRUDapp\Controllers\HomeController.cs"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Entities\bin\Debug\netstandard1.6\Entities.dll"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Interfaces\bin\Debug\netstandard1.6\Interfaces.dll"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Models\bin\Debug\netstandard1.6\Models.dll"
+-r:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\Services\bin\Debug\netstandard1.6\Services.dll"
+-resource:"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\obj\Debug\netcoreapp1.0\CRUDappdotnet-compile.deps.json",CRUDapp.deps.json
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\AutoMapperProfile.cs"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\Program.cs"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\Startup.cs"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\Controllers\AccountController.cs"
+"E:\Practices\DevOps\CoreRepo\CRUDapp\src\CRUDapp\Controllers\HomeController.cs"
