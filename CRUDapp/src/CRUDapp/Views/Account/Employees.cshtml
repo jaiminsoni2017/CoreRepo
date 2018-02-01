@@ -1,0 +1,26 @@
+﻿@using Entities
+@model IEnumerable<Employee>
+@{
+    Layout = "_Layout";
+}
+<div class="content">
+    <div class="row">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>Name</td>
+                    <td>Email</td>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.EmpID</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
