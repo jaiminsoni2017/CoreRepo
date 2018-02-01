@@ -1,0 +1,10 @@
+#:E:\Practices\Net Core\CRUDapp\src\CRUDapp\CRUDapp.xproj
+E:\Practices\Net Core\CRUDapp\src\CRUDapp\CRUDapp.xproj|E:\Practices\Net Core\CRUDapp\src\Entities\Entities.xproj
+E:\Practices\Net Core\CRUDapp\src\CRUDapp\CRUDapp.xproj|E:\Practices\Net Core\CRUDapp\src\Interfaces\Interfaces.xproj
+E:\Practices\Net Core\CRUDapp\src\CRUDapp\CRUDapp.xproj|E:\Practices\Net Core\CRUDapp\src\Models\Models.xproj
+E:\Practices\Net Core\CRUDapp\src\CRUDapp\CRUDapp.xproj|E:\Practices\Net Core\CRUDapp\src\Services\Services.xproj
+E:\Practices\Net Core\CRUDapp\src\Interfaces\Interfaces.xproj|E:\Practices\Net Core\CRUDapp\src\Entities\Entities.xproj
+E:\Practices\Net Core\CRUDapp\src\Interfaces\Interfaces.xproj|E:\Practices\Net Core\CRUDapp\src\Models\Models.xproj
+E:\Practices\Net Core\CRUDapp\src\Services\Services.xproj|E:\Practices\Net Core\CRUDapp\src\Entities\Entities.xproj
+E:\Practices\Net Core\CRUDapp\src\Services\Services.xproj|E:\Practices\Net Core\CRUDapp\src\Interfaces\Interfaces.xproj
+E:\Practices\Net Core\CRUDapp\src\Services\Services.xproj|E:\Practices\Net Core\CRUDapp\src\Models\Models.xproj
