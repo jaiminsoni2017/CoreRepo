@@ -49,6 +49,9 @@ namespace CRUDapp.Controllers
         public IActionResult Add()
             => Ok();
 
+        public IActionResult Delete()
+            => Ok();
+
         [HttpGet("account/list")]
         public IActionResult Employees()
         {
