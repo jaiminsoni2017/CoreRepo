@@ -58,7 +58,7 @@ namespace CRUDapp.Controllers
             var employees = _employeeService.GetAllEmployee();
             return View(employees);
         }
-
+         
         [HttpGet("emp-get")]
         public IActionResult Edit()
             => Ok();
