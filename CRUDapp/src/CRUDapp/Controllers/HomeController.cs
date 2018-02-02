@@ -36,5 +36,10 @@ namespace CRUDapp.Controllers
         {
             return View();
         }
+
+        public IActionResult CR0006()
+        {
+            return View();
+        }
     }
 }
