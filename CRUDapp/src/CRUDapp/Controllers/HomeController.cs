@@ -33,13 +33,9 @@ namespace CRUDapp.Controllers
         }
 
         public IActionResult CR0005()
-        {
-            return View();
-        }
+        => Ok();
 
         public IActionResult CR0006()
-        {
-            return View();
-        }
+        => Ok();
     }
 }
